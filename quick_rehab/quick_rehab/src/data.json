@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Mgr. Jirka Procházka",
+    "specialization": "Silový tréner",
+    "image": "/public/jiri.jpg",
+    "description": "Mgr. Jiří Procházka je skúsený silový tréner, ktorý sa už roky venuje pomáhaniu svojim klientom dosahovať maximálnu fyzickú výkonnosť a budovať silu. Je známy svojím individuálnym prístupom a detailnou prácou pri zostavovaní tréningových plánov na mieru. Špecializuje sa na silový tréning, zlepšenie výbušnosti a podporu regenerácie tela.\n\nSvoje tréningy zakladá na najnovších vedeckých poznatkoch a kladie veľký dôraz na správnu techniku, aby sa predišlo zraneniam a dosiahli sa optimálne výsledky. Jiří si zakladá na komunikácii a motivácii, pričom vytvára priateľskú atmosféru, v ktorej klienti dokážu napredovať.\n\nBez ohľadu na to, či ste začiatočník, alebo pokročilý športovec, Jiří vám pomôže objaviť váš skrytý potenciál. Jeho cieľom je nielen zlepšiť fyzickú kondíciu, ale aj podporiť celkovú spokojnosť so svojím telom a životným štýlom.",
+    "location": "Nitra"
+  },
+  {
+    "id": 2,
+    "name": "Bc. Lionel Messi",
+    "specialization": "Fyzioterapeut",
+    "image": "/public/messi.png",
+    "description": "Bc. Lionel Messi je vysoko kvalifikovaný fyzioterapeut s bohatými skúsenosťami v oblasti rehabilitácie a prevencie zranení. Je známy svojím profesionálnym prístupom k obnove pohyblivosti a podpore zdravia pohybového aparátu.\n\nJeho práca zahŕňa diagnostiku a liečbu pohybových problémov, využívanie terapeutických techník a individuálny prístup k potrebám klientov.",
+    "location": "Nitra"
+  },
+  {
+    "id": 3,
+    "name": "MUDr. Jackie Chan",
+    "specialization": "Doktor",
+    "image": "/public/jackie_chan.jpg",
+    "description": "MUDr. Jackie Chan je vysoko kvalifikovaný fyziodoktor s bohatými skúsenosťami v oblasti liečby a regenerácie pohybového aparátu. Je známy svojím inovatívnym prístupom a kombináciou tradičných a moderných terapeutických techník.\n\nJeho práca zahŕňa diagnostiku, rehabilitáciu po úrazoch a návrh individuálnych programov na zlepšenie pohyblivosti a celkovej vitality klientov.\n\n\n\n\n\n\n\n",
+    "location": "Nitra"
+  }
+]
